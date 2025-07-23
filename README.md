@@ -1,5 +1,22 @@
-## Hi there 👋
+## HELLO I´M ESTIVEN👋
+A passionate, in the process of becoming a **Full-Stack developer** from Colombia 🇨🇴
 
+- 📫 **how to contact me:** estivenroldan25@gmail.com
+---
+- connect with me ✉<br>
+[![LinkedIn](https://img.icons8.com/?size=100&id=8808&format=png&color=000000)](https://www.linkedin.com/in/estiven-roldan-3b7062354)
+---
+Lenguaje y herramientas✅
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100"/>
+
+
+
+</p>
 <!--
 **EstivenR25/EstivenR25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
