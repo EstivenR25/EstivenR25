@@ -3,10 +3,10 @@ A passionate, in the process of becoming a **Full-Stack developer** from Colombi
 
 - 📫 **how to contact me:** estivenroldan25@gmail.com
 ---
-- connect with me ✉<br>
+- connect with me <br>
 [<img src="https://img.icons8.com/?size=100&id=tvG-nQ3s2hZL&format=png&color=000000 " width="40"/>](https://www.linkedin.com/in/estiven-roldan-3b7062354)
 ---
-Lenguaje y herramientas✅
+Lenguaje y herramientas
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
