@@ -8,25 +8,19 @@ A passionate, in the process of becoming a **Full-Stack developer** from Colombi
 ---
 - Lenguaje y herramientas
 
-  <a href="https://lenguajehtml.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  </a>
-  
-  <a href="https://lenguajecss.com/css/introduccion/que-es-css/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  </a>
-  
-  <a href="https://www.python.org/" >
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  </a>
-  
-  <a href="https://sass-lang.com/" >
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
-  </a>
-  
-  <a href="https://fastapi.tiangolo.com/">
-      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100"/>
-  </a>
+  <a href= "https://lenguajehtml.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a>
+      
+  <a href= "https://lenguajecss.com/css/introduccion/que-es-css/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a>
+      
+  <a href= "https://www.python.org/" >
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
+  <a href= "https://sass-lang.com/" >
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/></a>
+     
+  <a href= "https://fastapi.tiangolo.com/">
+      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100"/></a>
 <!--
 **EstivenR25/EstivenR25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
